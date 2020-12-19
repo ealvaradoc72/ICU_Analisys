@@ -1,0 +1,18 @@
+09:36 p. m. 16/12/2020
+
+Ciudad: La ciudad a la que se le asignó el puntaje
+Entidad: Estado al que pertenece la ciudad
+Derecho: Variable que indica Sistema de derecho, percepcion de seguridad, incidencia delictiva
+MA: Medio Ambiente, manejo sustentable, Manejo de residuos solidos, Consumo de energia (Agua, Electricidad) 
+Sociedad: REferente a la sociedad Sana, Incluyente y preparada incluye indicadores como Rendimiento academico, Cobertura educativa
+	Grado de escolaridad, Equidad Salariañ, Mujeres que estudian
+Politico: Sistema politico estable, contempla la participación ciudadana, competencia Electoral, Agresiones a periodistas y percepcion 
+	de la corrupcion
+Gobierno: Informacion y manejo del presupuesto publico, Nuevas viviendas, crecimiento de la mancha Urbana
+Factores: Factores de bienestar, salario mensual, Desigualdad Salarial, Poblacion ocupada sin ingresos, Empresas establecidas y 
+	datos laborales
+Economia: Se compone de factores como el credito otorgado a las empresas, PIB, sectores con Rendimiento 
+Precursores: Inversion en transporte, Hogares con lineas telefonicas, Victimas de Accidentes en transporte
+RI: Relaciones internacionales, Inversion extranjera, Flujo de turismo, Oferta y calidad hotelera con su ocupacion 
+Innovacion: Comprende Innovación de los sectores económicos, Grandes empresas y productividad, Centros de Investigacion 
+	y posgrados de Calidad
